@@ -89,7 +89,7 @@ export const data = {
             degree:"Construyendo Web APIs RESTful con ASP.NET Core 9",
             year: "2026",
             url: "https://www.udemy.com/course/construyendo-web-apis-restful-con-aspnet-core/",
-            img: "https://www.vecteezy.com/png/46437277-udemy-transparent-logo",
+            img: "https://imgs.search.brave.com/wlRmQ6nkeMiJz5PoAya_okCSf2mbSZGwXxFFILLsa1g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA2/L1VkZW15LUxvZ28t/NTAweDI4MS5qcGc",
         },
         {
             institution: "LinkedIn Learning",
