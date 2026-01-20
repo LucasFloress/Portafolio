@@ -82,7 +82,7 @@ export const data = {
             degree: "Tecnicatura Universitaria en Programación",
             year: "2023 - 2025",
             url: "https://frh.utn.edu.ar/carreras/tec-universitaria-en-programacion/",
-            img: "./public/img/utn.webp"
+            img: "https://es-academic.com/pictures/eswiki/85/UTN_logo.jpg"
         },
         {
             institution: "Udemy",
@@ -96,7 +96,7 @@ export const data = {
             degree: "Selenium",
             year: "2026",
             url: "https://www.linkedin.com/learning/certificates/02ec6b65ac22969c4c9c91f0eb5aa3662a6e56f287a65df959fc459f614d1f36",
-            img: "./public/img/linkedin-logo-png-1853.png"
+            img: "https://tse4.mm.bing.net/th/id/OIP.iCxoj9bgSesYHiLe0cJzNQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
         }
     ]
 }
