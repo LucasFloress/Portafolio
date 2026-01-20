@@ -7,7 +7,7 @@ export const data = {
                 LinkedIn:"https://www.linkedin.com/in/lucas-ezequiel-flores",
                 GitHub:"https://github.com/LucasFloress",
                 Email:"floreslucas125@gmail.com",
-                CV: "./public/documents/CV-Lucas-Flores.pdf"
+                CV: "/documents/CV-Lucas-Flores.pdf"
             }
     },
     whyWorkWithMe: {
@@ -89,7 +89,7 @@ export const data = {
             degree:"Construyendo Web APIs RESTful con ASP.NET Core 9",
             year: "2026",
             url: "https://www.udemy.com/course/construyendo-web-apis-restful-con-aspnet-core/",
-            img: "https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"
+            img: "https://www.vecteezy.com/png/46437277-udemy-transparent-logo",
         },
         {
             institution: "LinkedIn Learning",
